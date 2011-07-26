@@ -38,7 +38,7 @@ base_options = dict (name='PythonTurtle',
       version='1.1',
       description='A learning environment for Python suitable for beginners and children, inspired by Logo.',
       author='Ram Rachum',
-      author_email='cool-rr@cool-rr.com',
+      author_email='ram.rachum.com',
       url='http://pythonturtle.org/',
       package_dir = {'pythonturtle': 'src'},
       packages=['pythonturtle','pythonturtle.almostimportstdlib','pythonturtle.misc',\
