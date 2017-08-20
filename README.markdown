@@ -1,3 +1,7 @@
+> **The version seems too old for the current Python 3.X, and I hope I'll have the ability to update it!**
+
+*PhilHE Created on Sun Aug 20 2017*
+
 Homepage: [http://pythonturtle.org](http://pythonturtle.org)
 A Windows installer is available from there.
 
